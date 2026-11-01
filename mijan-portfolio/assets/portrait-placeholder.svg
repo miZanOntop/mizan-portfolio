@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6b6b6b"/><stop offset="1" stop-color="#2b2b2b"/></linearGradient></defs>
+  <path d="M40 500c0-110 60-170 160-170s160 60 160 170z" fill="url(#g)"/>
+  <path d="M170 330l30 70 30-70" fill="#e9e9e9"/>
+  <circle cx="200" cy="200" r="92" fill="url(#g)"/>
+  <path d="M105 190c-6-70 40-110 98-110s100 44 92 110c-30-40-70-52-100-52s-62 12-90 52z" fill="#1c1c1c"/>
+  <text x="200" y="480" text-anchor="middle" font-family="monospace" font-size="16" fill="#bbb">add assets/mijan.png</text>
+</svg>
