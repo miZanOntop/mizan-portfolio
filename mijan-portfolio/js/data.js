@@ -9,7 +9,7 @@ window.SITE = {
   // Contact form: either paste a Formspree URL (https://formspree.io/f/xxxx) …
   formspree: "", // TODO: e.g. "https://formspree.io/f/abcdwxyz"
   // … or leave it empty and the form will open the visitor's email app instead:
-  email: "your-email@example.com", // TODO: your real email
+  email: "mijanali2064@gmail.com", // TODO: your real email
 
   timezone: "Asia/Kathmandu",
 
@@ -62,16 +62,16 @@ window.SITE = {
       text: "A twist on classic Tic-Tac-Toe where logic (mind) and intuition (heart) battle for the board. My first complete game project.",
       chips: ["Game logic", "UI", "Personal"],
       screen: "ttt",
-      link: "", linkLabel: "Play it"           // TODO: paste live link / GitHub link
+      link: "https://mizanontop.github.io/Tic-tac-toe-2.1/", linkLabel: "Play it"           // TODO: https://mizanontop.github.io/Tic-tac-toe-2.1/paste live link / GitHub link
     },
     {
       tag: "Website build",
-      title: "Daju Bhai Wine Shop",
+      title: "Mensspace",
       sub: "Demo website",
-      text: "A demo website for a wine shop — product showcase, clean layout and a mobile-first design.",
+      text: "A demo website for a clothing .",
       chips: ["Web design", "Responsive", "Demo"],
       screen: "shop",
-      link: "", linkLabel: "Visit site"        // TODO
+      link: "https://mensspace.sociair.com/", linkLabel: "Visit site"        // TODO
     },
     {
       tag: "Professional",
@@ -95,10 +95,9 @@ window.SITE = {
 
   // TODO: put your real profile URLs. Leave "" to hide one.
   socials: [
-    { name: "GitHub",    url: "https://github.com/",      handle: "@yourusername" },
-    { name: "LinkedIn",  url: "https://linkedin.com/in/", handle: "Mijan Ali" },
-    { name: "Instagram", url: "https://instagram.com/",   handle: "@yourhandle" },
-    { name: "Facebook",  url: "https://facebook.com/",    handle: "Mijan Ali" },
-    { name: "Email",     url: "mailto:your-email@example.com", handle: "Say hello" }
+    { name: "LinkedIn",  url: "https://www.linkedin.com/in/mijan-ali-13b8733ab/", handle: "Mijan Ali" },
+    { name: "Instagram", url: "https://www.instagram.com/mizan_on.top/",   handle: "mizan_on.top" },
+    { name: "Facebook",  url: "https://www.facebook.com/mijan.ali.862516",    handle: "Mijan Ali" },
+    { name: "Email",     url: "mailto:mijanali2064@gmail.com", handle: "Say hello" }
   ]
 };
