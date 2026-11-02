@@ -57,7 +57,7 @@ window.SITE = {
   works: [
     {
       tag: "Personal project",
-      title: "Mind-Heart Tic-Tac-Toe",
+      title: "Tic-Tac-Toe",
       sub: "Game",
       text: "A twist on classic Tic-Tac-Toe where logic (mind) and intuition (heart) battle for the board. My first complete game project.",
       chips: ["Game logic", "UI", "Personal"],
